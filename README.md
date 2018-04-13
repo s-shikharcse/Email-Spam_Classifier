@@ -25,6 +25,16 @@ If we assume that occurrence of a word are independent of all other words, we ca
 
 
 
+![3](https://user-images.githubusercontent.com/30600908/38755609-0335c9c8-3f84-11e8-866c-f92b40c4ef32.png)
+
+
+
+
+In order to classify we have to determine which is greater
+
+
+
+
 This project classifies the email as spam or not based on the scanning of the email body. The program compares the string tokens with that of already stored spam-keywords and if it finds the one then reports the mail as spam otherwise not.
 
 If classified as spam will place in spam folder or give label of spam. If not spam will show in inbox as normal inbox message.
