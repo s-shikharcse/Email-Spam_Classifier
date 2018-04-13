@@ -34,6 +34,11 @@ In order to classify we have to determine which is greater
 
 
 
+![1 ynultj72f1z2we927udlrq](https://user-images.githubusercontent.com/30600908/38755708-6173cac6-3f84-11e8-8764-d51d866c6895.png)
+
+
+
+
 
 This project classifies the email as spam or not based on the scanning of the email body. The program compares the string tokens with that of already stored spam-keywords and if it finds the one then reports the mail as spam otherwise not.
 
