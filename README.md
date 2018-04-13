@@ -15,6 +15,16 @@ We all face the problem of spams in our inboxes. Let’s build a spam classifier
 We have a message m = (w1, w2, . . . . , wn), where (w1, w2, . . . . , wn) is a set of unique words contained in the message. We need to find
 
 
+
+![1 fngyu6bsb_qw82aldd2e9q](https://user-images.githubusercontent.com/30600908/38755548-c43b08aa-3f83-11e8-8822-578370b7ab0a.png)
+
+
+
+
+If we assume that occurrence of a word are independent of all other words, we can simplify the above expression to
+
+
+
 This project classifies the email as spam or not based on the scanning of the email body. The program compares the string tokens with that of already stored spam-keywords and if it finds the one then reports the mail as spam otherwise not.
 
 If classified as spam will place in spam folder or give label of spam. If not spam will show in inbox as normal inbox message.
